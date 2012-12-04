@@ -1,0 +1,1 @@
+Implementation of Peter Norvig's Sudoku Algorithm in Ruby with a simple frontend and Sinatra server.
